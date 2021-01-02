@@ -1,5 +1,5 @@
-# udp_chating
-说明：基于UDP的C/S模式下的简单聊天室 **（Linux和windows都已兼容）**
+# udp_chating(python)
+说明：基于UDP socket的C/S模式下的简单多人聊天室 **（Linux和windows都已兼容）**
 
 #### 实现功能：
 
