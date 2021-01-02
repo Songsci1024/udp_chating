@@ -57,3 +57,9 @@ python额外安装库：**mysql-connector**
 Log文件，记录注册和登录信息:
 
 ![image-20210102223245344](https://raw.githubusercontent.com/Abandon339/Note_Book_picture/master/img/image-20210102223245344.png)
+
+参考资料：
+
+- https://blog.csdn.net/qq_41748456/article/details/103832916
+- https://www.runoob.com/python3/python-mysql-connector.html
+- https://www.runoob.com/mysql/mysql-create-tables.html
